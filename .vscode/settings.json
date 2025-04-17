@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "hash.h": "c"
+    },
+    "editor.tabSize": 4,
+    "workbench.editor.highlightModifiedTabs": false,
+    "workbench.editor.pinnedTabSizing": "normal",
+    "workbench.editor.pinnedTabsOnSeparateRow": false,
+    "workbench.editor.showTabs": "multiple"
+}
