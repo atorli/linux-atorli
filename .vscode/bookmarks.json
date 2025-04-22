@@ -69,6 +69,51 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "net/ipv4/ip_fragment.c",
+			"bookmarks": [
+				{
+					"line": 280,
+					"column": 21,
+					"label": ""
+				},
+				{
+					"line": 643,
+					"column": 25,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/core/dev.c",
+			"bookmarks": [
+				{
+					"line": 1651,
+					"column": 21,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/inetpeer.c",
+			"bookmarks": [
+				{
+					"line": 375,
+					"column": 30,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/route.c",
+			"bookmarks": [
+				{
+					"line": 1034,
+					"column": 22,
+					"label": ""
+				}
+			]
 		}
 	]
 }
