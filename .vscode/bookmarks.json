@@ -154,6 +154,51 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "include/net/neighbour.h",
+			"bookmarks": [
+				{
+					"line": 120,
+					"column": 16,
+					"label": ""
+				},
+				{
+					"line": 169,
+					"column": 18,
+					"label": ""
+				},
+				{
+					"line": 316,
+					"column": 32,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/core/neighbour.c",
+			"bookmarks": [
+				{
+					"line": 650,
+					"column": 32,
+					"label": ""
+				},
+				{
+					"line": 927,
+					"column": 16,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "include/linux/inetdevice.h",
+			"bookmarks": [
+				{
+					"line": 37,
+					"column": 16,
+					"label": ""
+				}
+			]
 		}
 	]
 }
