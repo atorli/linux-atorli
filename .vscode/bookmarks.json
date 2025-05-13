@@ -179,6 +179,11 @@
 			"path": "net/core/neighbour.c",
 			"bookmarks": [
 				{
+					"line": 201,
+					"column": 16,
+					"label": ""
+				},
+				{
 					"line": 650,
 					"column": 32,
 					"label": ""
@@ -186,6 +191,11 @@
 				{
 					"line": 927,
 					"column": 16,
+					"label": ""
+				},
+				{
+					"line": 1138,
+					"column": 24,
 					"label": ""
 				}
 			]
@@ -196,6 +206,16 @@
 				{
 					"line": 37,
 					"column": 16,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/arp.c",
+			"bookmarks": [
+				{
+					"line": 1237,
+					"column": 20,
 					"label": ""
 				}
 			]
