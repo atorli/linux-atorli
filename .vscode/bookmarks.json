@@ -219,6 +219,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "init/do_mounts.c",
+			"bookmarks": [
+				{
+					"line": 392,
+					"column": 19,
+					"label": ""
+				}
+			]
 		}
 	]
 }
