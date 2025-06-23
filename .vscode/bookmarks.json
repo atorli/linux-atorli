@@ -339,6 +339,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "drivers/pci/pci-driver.c",
+			"bookmarks": [
+				{
+					"line": 386,
+					"column": 23,
+					"label": ""
+				}
+			]
 		}
 	]
 }

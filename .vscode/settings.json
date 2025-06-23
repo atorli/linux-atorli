@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "hash.h": "c"
+        "hash.h": "c",
+        "typeinfo": "c"
     },
     "editor.tabSize": 4,
     "workbench.editor.highlightModifiedTabs": false,
