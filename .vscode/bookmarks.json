@@ -349,6 +349,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "arch/i386/kernel/setup.c",
+			"bookmarks": [
+				{
+					"line": 1396,
+					"column": 22,
+					"label": ""
+				}
+			]
 		}
 	]
 }
